@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+a {
+    width: 50%;
+    border:5px solid white;
+    padding:12px;
+    text-decoration:none;
+    color:white;
+}
